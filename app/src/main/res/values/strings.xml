@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">TimeTracker</string>
+    <string name="title_home">Home</string>
+    <string name="title_dashboard">Dashboard</string>
+    <string name="title_notifications">Notifications</string>
+    <string name="login">Login</string>
+    <string name="Authorisate">Войти</string>
+    <string name="Registrate">Еще не зарегистрированы?</string>
+    <string name="RegistrateText">Регистрация</string>
+    <string name="AuthBtnText">Уже зарегестрированы?</string>
+    <string name="RegistrBtnText">Зарегестрироваться</string>
+</resources>
